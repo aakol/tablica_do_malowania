@@ -1,2 +1,2 @@
 # tablica_do_malowania
-tablica
+prawy przycisk jeden kolor, lewy przycisk drugi kolor, naciśnięcie kółka jeżeli ktoś ma to gumka
